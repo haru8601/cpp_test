@@ -1,0 +1,2 @@
+reset
+plot "randomout.dat" with points pt 7
